@@ -31,7 +31,7 @@
 
 ## 🌐 Connect With Me
 
-<p align="center">
+<p align="left">
 
 <a href="https://www.linkedin.com/in/jannatul-maowa-ariba-218a0b349/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3By%2FrSJKf%2FTl%2BKKj3H2Aw%2FzQ%3D%3D">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -93,7 +93,7 @@
 
 ### 🗄️ Database
 
-<p align="center">
+<p align="left">
 
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 
