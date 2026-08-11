@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi, I'm Jannatul Maowa Ariba 👋
+# Hi, I'm Jannatul Maowa Ariba 
 
-###  UI/UX designer | Web Developer | Programmer 
+### UI/UX designer | Web Developer | Programmer 
 
 ---
 
