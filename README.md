@@ -6,6 +6,11 @@
 
 ---
 
+### **Portfolio:**  
+https://j-m-ariba.vercel.app/
+
+---
+
 ##  About Me
 
  I am a **Computer Science & Engineering student at International Islamic University Chittagong (IIUC)**.
@@ -27,7 +32,7 @@
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
 <a href="https://www.linkedin.com/in/jannatul-maowa-ariba-218a0b349/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3By%2FrSJKf%2FTl%2BKKj3H2Aw%2FzQ%3D%3D">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -67,6 +72,8 @@
 
 </p>
 
+---
+
 ### 🌐 Web Development
 
 <p align="left">
@@ -83,6 +90,8 @@
 
 </p>
 
+---
+
 ### 🗄️ Database
 
 <p align="left">
@@ -94,6 +103,8 @@
 <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white"/>
 
 </p>
+
+---
 
 ### 🛠️ Tools & Technologies
 
@@ -116,11 +127,6 @@
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 
 </p>
-
----
-
-🔗 **Portfolio:**  
-https://j-m-ariba.vercel.app/
 
 ---
 
