@@ -17,7 +17,7 @@
 
 ---
 
-## 💫 About Me
+##  About Me
 
  I am a **Computer Science & Engineering student at International Islamic University Chittagong (IIUC)**.
  I am passionate about **Software Development, Web Technologies, Database Systems, and Problem Solving**.
@@ -32,9 +32,9 @@
 
 **Bachelor of Science in Computer Science & Engineering**
 
-🏫 International Islamic University Chittagong (IIUC)
+ **International Islamic University Chittagong (IIUC)**
 
-📚 CSE-58
+ **CSE-58**
 
 ---
 
@@ -132,43 +132,8 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 💜 Personal Portfolio Website
-
-A modern personal portfolio website showcasing my journey as a
-**Computer Science & Engineering student, developer, and learner**.
-
-**Technologies:** HTML • CSS • JavaScript • React
-
 🔗 **Portfolio:**  
 https://j-m-ariba.vercel.app/
-
----
-
-### 🚨 Disaster Relief & Resource Management System
-
-A database-driven system designed to help manage **victims, volunteers, resources, and relief activities**.
-
-**Technologies:** PHP • MySQL • HTML • CSS • JavaScript
-
----
-
-### 🏨 Hotel Management System
-
-A management system designed to handle **room booking,
-customer records, and billing management**.
-
-**Technology:** C++
-
----
-
-### 📚 Library Management System
-
-A console-based library management system using **C programming,
-file handling, structures, and menu-driven programming**.
-
-**Technology:** C
 
 ---
 
@@ -193,26 +158,3 @@ file handling, structures, and menu-driven programming**.
 </div>
 
 ---
-
-## 🌱 Currently Learning
-
-```text
-Web Development
-    ├── React
-    ├── JavaScript
-    └── Modern UI Development
-
-Programming
-    ├── C / C++
-    ├── Java
-    └── Problem Solving
-
-Database
-    ├── SQL
-    ├── MySQL
-    └── Database Design
-
-Development Tools
-    ├── Git
-    ├── GitHub
-    └── VS Code
