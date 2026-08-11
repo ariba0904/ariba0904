@@ -20,11 +20,9 @@
 ##  About Me
 
  I am a **Computer Science & Engineering student at International Islamic University Chittagong (IIUC)**.
- I am passionate about **Software Development, Web Technologies, Database Systems, and Problem Solving**.
- Currently learning and improving my skills in **Web Development, C/C++, Java, SQL, and modern development tools**.
+ I am passionate about **Research, Machine Learning, Data Analysis, Robotics, Programming, Software Development, Web Technologies, Database Systems, and Problem Solving**.
  I enjoy building academic and personal projects that help me learn by doing.
  I am continuously exploring new technologies and improving my programming skills.
- My goal is to become a skilled software developer and build meaningful, useful applications.
 
 ---
 
@@ -134,18 +132,6 @@
 
 🔗 **Portfolio:**  
 https://j-m-ariba.vercel.app/
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ariba0904&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariba0904&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
-</div>
 
 ---
 
