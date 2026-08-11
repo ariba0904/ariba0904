@@ -2,18 +2,7 @@
 
 # Hi, I'm Jannatul Maowa Ariba 👋
 
-### 🎓 Computer Science & Engineering Student | 💻 Aspiring Software Developer
-
-<p>
-  <a href="https://github.com/ariba0904">
-    <img src="https://komarev.com/ghpvc/?username=ariba0904&label=Profile%20Views&color=6C63FF&style=flat" alt="Profile Views"/>
-  </a>
-  <a href="https://github.com/ariba0904?tab=followers">
-    <img src="https://img.shields.io/github/followers/ariba0904?label=Followers&style=flat&color=6C63FF" alt="Followers"/>
-  </a>
-</p>
-
-</div>
+### 🎓 Computer Science & Engineering Student | UI/UX designer | Web Developer | Programmer |
 
 ---
 
