@@ -19,17 +19,12 @@
 
 ## 💫 About Me
 
-🎓 I am a **Computer Science & Engineering student at International Islamic University Chittagong (IIUC)**.
-
-💻 I am passionate about **Software Development, Web Technologies, Database Systems, and Problem Solving**.
-
-🌱 Currently learning and improving my skills in **Web Development, C/C++, Java, SQL, and modern development tools**.
-
-🚀 I enjoy building academic and personal projects that help me learn by doing.
-
-🧠 I am continuously exploring new technologies and improving my programming skills.
-
-✨ My goal is to become a skilled software developer and build meaningful, useful applications.
+ I am a **Computer Science & Engineering student at International Islamic University Chittagong (IIUC)**.
+ I am passionate about **Software Development, Web Technologies, Database Systems, and Problem Solving**.
+ Currently learning and improving my skills in **Web Development, C/C++, Java, SQL, and modern development tools**.
+ I enjoy building academic and personal projects that help me learn by doing.
+ I am continuously exploring new technologies and improving my programming skills.
+ My goal is to become a skilled software developer and build meaningful, useful applications.
 
 ---
 
@@ -47,19 +42,19 @@
 
 <p align="left">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/jannatul-maowa-ariba-218a0b349/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3By%2FrSJKf%2FTl%2BKKj3H2Aw%2FzQ%3D%3D">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="YOUR_FACEBOOK_URL">
+<a href="https://www.facebook.com/jm.ariba.09?__tn__=-UC*F">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
-<a href="YOUR_INSTAGRAM_URL">
+<a href="https://www.instagram.com/j_m_ariba/?__pwa=1#">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="YOUR_YOUTUBE_URL">
+<a href="YOUR_YOUTUBE">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
@@ -136,25 +131,16 @@ A modern personal portfolio website showcasing my journey as a
 
 **Technologies:** HTML • CSS • JavaScript • React
 
-🔗 **Repository:**  
-https://github.com/ariba0904/My-Portfolio
+🔗 **Portfolio:**  
+https://j-m-ariba.vercel.app/
 
 ---
 
 ### 🚨 Disaster Relief & Resource Management System
 
-A database-driven system designed to help manage **disaster reports,
-victims, volunteers, resources, and relief activities**.
+A database-driven system designed to help manage **victims, volunteers, resources, and relief activities**.
 
 **Technologies:** PHP • MySQL • HTML • CSS • JavaScript
-
-**Key Areas:**
-- 👤 User Management
-- 🧑‍🤝‍🧑 Volunteer Management
-- 🆘 Victim Management
-- 📋 Disaster Reports
-- 📦 Resource Management
-- 🚚 Delivery Management
 
 ---
 
@@ -183,26 +169,6 @@ file handling, structures, and menu-driven programming**.
 <img src="https://github-readme-stats.vercel.app/api?username=ariba0904&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariba0904&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=ariba0904&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ariba0904&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
 
 </div>
 
