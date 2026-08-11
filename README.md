@@ -57,7 +57,7 @@
 
 ### 👩‍💻 Programming Languages
 
-<p align="left">
+<p align="center">
 
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 
@@ -75,7 +75,7 @@
 
 ### 🌐 Web Development
 
-<p align="left">
+<p align="center">
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 
@@ -93,7 +93,7 @@
 
 ### 🗄️ Database
 
-<p align="left">
+<p align="center">
 
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 
@@ -107,7 +107,7 @@
 
 ### 🛠️ Tools & Technologies
 
-<p align="left">
+<p align="center">
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
