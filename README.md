@@ -2,7 +2,7 @@
 
 # Hi, I'm Jannatul Maowa Ariba 👋
 
-### 🎓 Computer Science & Engineering Student | UI/UX designer | Web Developer | Programmer |
+###  UI/UX designer | Web Developer | Programmer 
 
 ---
 
