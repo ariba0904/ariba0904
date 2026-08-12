@@ -1,11 +1,5 @@
 <div align="center">
 
-# Hi, I'm Jannatul Maowa Ariba 
-
-### UI/UX designer | Web Developer | Programmer 
-
----
-
  ### Portfolio: https://j-m-ariba.vercel.app/
 
 ---
