@@ -2,6 +2,8 @@
 
  ### Portfolio: https://j-m-ariba.vercel.app/
 
+ ### Email: jannatulmaowaariba0@gmail.com
+
 ---
 
 ##  About Me
