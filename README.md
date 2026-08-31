@@ -127,6 +127,26 @@
 
 ---
 
+## 🧩 Coding Profiles
+
+<p align="left">
+
+<a href="https://codeforces.com/profile/JM_Ariba">
+<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/jm_ariba">
+<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
+</a>
+
+<a href="https://leetcode.com/u/jm_ariba/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+</p>
+
+---
+
 ## 🔥 GitHub Streak
 
 <div align="center">
