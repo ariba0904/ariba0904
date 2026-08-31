@@ -127,21 +127,6 @@
 
 ---
 
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ariba0904&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-
-</div>
-
----
-
----
-
 ## 🔥 GitHub Streak
 
 <div align="center">
