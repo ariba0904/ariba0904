@@ -127,7 +127,6 @@
 
 ---
 
----
 
 ---
 
@@ -135,9 +134,11 @@
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/ariba0904" alt="GitHub Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ariba0904&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 
 </div>
+
+---
 
 ---
 
