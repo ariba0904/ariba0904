@@ -139,11 +139,11 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🔥 GitHub Streak
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ariba0904&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ariba0904&theme=tokyonight&hide_border=true" />
 
 </div>
 
