@@ -9,7 +9,7 @@
 ##  About Me
 
  I am a **Computer Science & Engineering student at International Islamic University Chittagong (IIUC)**.
- I am passionate about **Research, Machine Learning, Data Analysis, Robotics, Programming, Software Development, Web Technologies, Database Systems, and Problem Solving**.
+ I am passionate about **Research, Space & Astronomy, Machine Learning, Data Analysis, Robotics, Software Development, Web Technologies, Database Systems, and Problem Solving**.
  I enjoy building academic and personal projects that help me learn by doing.
  I am continuously exploring new technologies and improving my programming skills.
 
